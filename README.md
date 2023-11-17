@@ -16,7 +16,9 @@ Get the value from the user for the number of rotation
 Using the slicing concept rotate the list
 
 ### Step 5: 
+Using concatenation operation display the entire rotated list
 ### Step 6: 
+Stop the program
 ## Program:
 ```py
 #Program to circulate N values.
